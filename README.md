@@ -4,6 +4,7 @@ Code for IU DSCI-590-Data Visualization Final Project
 
 Impact of Transaction Networks on Team Performance in the NHL
 
+Interactive Network: https://d141.github.io/
 
 Results: 
 
